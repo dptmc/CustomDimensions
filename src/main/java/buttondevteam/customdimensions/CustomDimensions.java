@@ -45,7 +45,7 @@ import net.minecraft.server.packs.resources.IResourceManager;
 
 import org.bukkit.Bukkit;
 import org.bukkit.WorldType;
-import org.bukkit.craftbukkit.v1_17_R1.CraftServer;
+import org.bukkit.craftbukkit.v1_17_R2.CraftServer;
 import org.bukkit.event.Listener;
 import org.bukkit.event.world.WorldInitEvent;
 import org.bukkit.event.world.WorldLoadEvent;
